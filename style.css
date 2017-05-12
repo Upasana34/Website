@@ -1,0 +1,85 @@
+
+html, body {
+  margin:0;
+  padding: 0;
+  font-family: 'Cinzel', serif;
+}
+
+.pink{
+  background-size: 400px;
+  background: #c879b2;
+  height: 51.25em;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+  
+  
+  
+}
+
+.blue{
+  background: #0d2c40;
+  height: 50em;
+  width: 20%;
+  margin-left: 21%;
+  display: inline-block;
+  background-size: 101%;
+  border: 0;
+  padding: 0;
+  margin-right: -4px;
+}
+
+.orange{
+  background: orange;
+  height: 20em;
+  width: 19.6%;
+  display: inline-block;
+  background-size: 101%;
+  margin-right: -4px;
+ 
+ } 
+.light-blue{
+  background: #ADD8E6;
+  height: 120%;
+  width: 19.6%;
+  display: inline-block;
+  margin-right: -4px;
+  margin-bottom: -37.65%;
+  z-index: 2;
+
+} 
+
+.intro{
+  background: #F1E8E6;
+  height: 40em;
+  margin-top: -20px;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+.picture{
+  background-image: url("https://cdn.photographylife.com/wp-content/uploads/2016/05/Adams_The_Tetons_and_the_Snake_River.jpg");
+  margin-top: -10%;
+  height: 80em;
+  clear: both;
+  z-index: 1;
+  
+ }
+
+ .extraBlue {
+  background: #0d2c40;
+  height: 30em;
+  width: 30%;
+  float: left;
+  display: inline-block;
+  margin-top: 20%; 
+
+} 
+.textBox {
+  
+  height: 40em;
+  width: 40em;
+  font-size: 20px;
+  padding: 100px;
+}
